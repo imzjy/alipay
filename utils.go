@@ -1,0 +1,6 @@
+package alipay
+
+
+func BuildPreSignString() {
+	
+}
